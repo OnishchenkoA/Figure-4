@@ -1,9 +1,6 @@
-#include <string>
-#include "Figure.h"
-#include "Quadrangle .h"
-#include "Paralel.h"
-#include "Romb.h"
 #pragma once
+#include "Romb.h"
+
 
 class Square : public Romb
 {

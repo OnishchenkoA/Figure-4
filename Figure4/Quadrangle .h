@@ -1,6 +1,6 @@
-#include <string>
-#include "Figure.h"
 #pragma once
+#include "Figure.h"
+
 
 class Quadrangle : public Figure
 {

@@ -1,6 +1,5 @@
 #include "stdafx.h"
 #include "Paralel.h"
-#include "Quadrangle .h"
 #include "Figure.h"
 #include <iostream>
 

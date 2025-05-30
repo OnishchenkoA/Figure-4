@@ -10,11 +10,6 @@
 #include "Romb.h"
 #include "Square.h"
 #include <iostream>
-#include <string>
-#include <Windows.h>
-#include <stdio.h>
-#include <fstream>
-#include <string>
 
 using namespace std;
 

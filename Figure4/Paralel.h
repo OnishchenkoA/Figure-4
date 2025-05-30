@@ -1,7 +1,7 @@
-#include <string>
+#pragma once
 #include "Figure.h"
 #include "Quadrangle .h"
-#pragma once
+
 
 class Paralel : public Quadrangle
 {

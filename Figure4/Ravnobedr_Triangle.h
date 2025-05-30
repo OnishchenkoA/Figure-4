@@ -1,7 +1,6 @@
-#include <string>
-#include "Figure.h"
-#include "Triangle.h"
 #pragma once
+#include "Triangle.h"
+
 
 class Ravnobedr_Triangle : public Triangle
 {

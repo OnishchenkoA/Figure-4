@@ -1,8 +1,6 @@
-#include <string>
-#include "Figure.h"
-#include "Quadrangle .h"
-#include "Romb.h"
 #pragma once
+#include "Paralel.h"
+
 
 class Pryamoug : public Paralel
 {

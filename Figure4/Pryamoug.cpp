@@ -1,8 +1,6 @@
 #include "stdafx.h"
 #include "Pryamoug.h"
 #include "Paralel.h"
-#include "Quadrangle .h"
-#include "Figure.h"
 #include <iostream>
 
 
